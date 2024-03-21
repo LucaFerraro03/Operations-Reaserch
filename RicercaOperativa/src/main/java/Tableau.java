@@ -182,7 +182,6 @@ public class Tableau {
     /**
      * The method solves the tableau
      *
-     *
      * @return the solved tableau
      */
     public void solve() {

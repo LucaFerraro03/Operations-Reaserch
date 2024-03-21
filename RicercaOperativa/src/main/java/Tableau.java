@@ -143,7 +143,7 @@ public class Tableau {
     /**
      * This method controls if there are all zeroes but only one '1' in a column
      *
-     * @param column
+     * @param column Index of the column
      * @return True if there are all zeroes but only one '1', false otherwise
      */
     private boolean allZeroesButOne(int column){

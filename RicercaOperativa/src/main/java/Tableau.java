@@ -242,6 +242,10 @@ public class Tableau {
 
     }
 
+
+    /**
+    * This method prints the current state of the tableau on screen
+    */
     @Override
     public String toString() {
 
